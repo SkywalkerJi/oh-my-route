@@ -7,6 +7,7 @@
 *.njsproj
 *.sln
 *.sw*
+.history
 
 # Contents
 node_modules
